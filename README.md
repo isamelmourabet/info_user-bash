@@ -15,3 +15,8 @@ A **Bash script** for retrieving detailed information about system users, groups
 - 🆘 Help message for usage assistance
 - 📝 Logs output to `/var/log/info_user.log`
 - 🛑 Robust error handling
+
+## 📦 Usage
+
+```bash
+./info_user.sh [option] [value]
